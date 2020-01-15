@@ -2,7 +2,7 @@
   "name": "decibel-meter",
   "version": "2.0.0",
   "description": "Decibel meter for detecting noise levels from microphone via Web Audio API",
-  "main": "build/decibel-meter.js",
+  "main": "dist/decibel-meter.js",
   "directories": {
     "test": "test"
   },
